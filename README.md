@@ -4,11 +4,9 @@ Welcome to the MeloMix project! This repository showcases the visual representat
 
 ## Demo
 
-Explore our online music streaming design on Vercel: [MeloMix Demo](https://your-vercel-demo-link)
+Explore our online music streaming design on Vercel: [MeloMix Demo](https://melomix-b83r02k1e-devdavixs-projects.vercel.app/)
 
-## Preview
 
-![MeloMix](link-to-homepage-image.png)
 
 ## Getting Started
 
@@ -18,8 +16,8 @@ Visit the demo link above to experience the online music streaming concept. Plea
 
 MeloMix is created by Obi Chinoso, also known as Devdavixx. Connect with Devdavixx on:
 
-- GitHub: [Devdavixx](https://github.com/devdavixx)
-- Twitter: [@Devdavixx](https://twitter.com/Devdavixx)
+- GitHub: [Devdavixx](https://github.com/devdavix2)
+- Twitter: [@Devdavixx](https://twitter.com/Devdavix)
 
 ## Feedback
 
